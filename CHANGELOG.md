@@ -1,3 +1,6 @@
+# 1.1.0 Release
+- React-leaflet v2.x along with v1.x support.
+
 # 1.0.4 Release
 - Allow the latest versions of `react` and `react-dom` (i.e. 16 and up).
 
